@@ -6,8 +6,7 @@ Tic Tac Toe
 
 # Deployment:
 
-# Video Description
-https://www.youtube.com/watch?v=lYtPscvwgP4&t=1s&ab_channel=GreatStack
+# [Video Description](https://www.youtube.com/watch?v=lYtPscvwgP4&t=1s&ab_channel=GreatStack).
 
 
 # Getting Started with Create React App
