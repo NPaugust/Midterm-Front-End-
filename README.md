@@ -2,9 +2,10 @@
 
 # React js App
 Tic Tac Toe
+[Deployment](https://npaugust.github.io/Midterm-Front-End-/)
+
 # <img width="851" alt="midterm-front-end_screen" src="https://github.com/NPaugust/Midterm-Front-End-/assets/72886935/45eb237d-cc54-4f77-92c5-db20fcd8af99">
 
-# [Deployment](https://npaugust.github.io/Midterm-Front-End-/)
 
 # [Video Description](https://www.youtube.com/watch?v=lYtPscvwgP4&t=1s&ab_channel=GreatStack).
 
