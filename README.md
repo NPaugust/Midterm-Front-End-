@@ -2,16 +2,17 @@
 
 # React js App
 Tic Tac Toe
+[Deployment](https://npaugust.github.io/Midterm-Front-End-/)
+
 # <img width="851" alt="midterm-front-end_screen" src="https://github.com/NPaugust/Midterm-Front-End-/assets/72886935/45eb237d-cc54-4f77-92c5-db20fcd8af99">
 
-# [Deployment](https://npaugust.github.io/Midterm-Front-End-/)
 
 # [Video Description](https://www.youtube.com/watch?v=lYtPscvwgP4&t=1s&ab_channel=GreatStack).
 
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://npaugust.github.io/Midterm-Front-End-/).
 
 ## Available Scripts
 
