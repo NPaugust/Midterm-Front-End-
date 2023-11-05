@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Midterm-Front-End-/static/css/main.4768c24e.chunk.css",
+    "main.css": "/Midterm-Front-End-/static/css/main.9fc2122f.chunk.css",
     "main.js": "/Midterm-Front-End-/static/js/main.12e23a60.chunk.js",
     "main.js.map": "/Midterm-Front-End-/static/js/main.12e23a60.chunk.js.map",
     "runtime-main.js": "/Midterm-Front-End-/static/js/runtime-main.6e8df697.js",
@@ -8,13 +8,13 @@
     "static/js/2.949d2d13.chunk.js": "/Midterm-Front-End-/static/js/2.949d2d13.chunk.js",
     "static/js/2.949d2d13.chunk.js.map": "/Midterm-Front-End-/static/js/2.949d2d13.chunk.js.map",
     "index.html": "/Midterm-Front-End-/index.html",
-    "static/css/main.4768c24e.chunk.css.map": "/Midterm-Front-End-/static/css/main.4768c24e.chunk.css.map",
+    "static/css/main.9fc2122f.chunk.css.map": "/Midterm-Front-End-/static/css/main.9fc2122f.chunk.css.map",
     "static/js/2.949d2d13.chunk.js.LICENSE.txt": "/Midterm-Front-End-/static/js/2.949d2d13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6e8df697.js",
     "static/js/2.949d2d13.chunk.js",
-    "static/css/main.4768c24e.chunk.css",
+    "static/css/main.9fc2122f.chunk.css",
     "static/js/main.12e23a60.chunk.js"
   ]
 }
