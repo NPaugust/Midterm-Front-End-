@@ -1,6 +1,6 @@
 body {
   font: 18px "Times New Roman", Futura, sans-serif;
-  margin: auto;
+  margin: 0;
   padding: 0;
 
 
@@ -15,7 +15,7 @@ body {
 }
 
 ol, ul {
-  padding-left: 50px;
+  padding-left: 30px;
 }
 
 .board-row:after {
