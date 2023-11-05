@@ -3,6 +3,15 @@ Connection: Keep-Alive
 User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
 Accept-Encoding: br,deflate,gzip,x-gzip
 
+<> 2023-11-05T133014.404.html
+
+###
+
+GET https://npaugust.github.io/midterm-front-end
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
 <> 2023-11-05T130850.404.html
 
 ###
